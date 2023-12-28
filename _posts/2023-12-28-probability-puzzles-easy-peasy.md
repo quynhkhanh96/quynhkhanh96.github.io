@@ -17,7 +17,7 @@ You could place all the white marbles in one urn, and all the black in the other
 
 Note that we don't have partition the marbles equally into two urns and the best chance of survival is when we place 1 white marble into one urn and the rest (99 marbles, including 49 white marbles and 50 black ones) into the other urn. (I\'ll add proof for this later I guess :sweat:)
 
-We\'ll survive if one of the two scenarios happens:
+We\'ll survive if one of the two scenarios below happens:
 - The king picks the urn with one white marble ($$50\%$$ chance), the probability he\'ll retrieve a white marble is $$100\%$$.
 - The king picks the urn with 99 marbles (also $$50\%$$ chance), the probability he\'ll retrieve a white marble is $$\frac{49}{99}$$
 
