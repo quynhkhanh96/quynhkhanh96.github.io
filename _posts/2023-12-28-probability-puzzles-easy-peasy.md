@@ -3,7 +3,7 @@ layout: post
 title: "Probability Puzzles - Easy Peasy level"
 categories: fun math problems
 ---
-This post contains my solutions to problems, ``Easy Peasy" level from an app called [Probability Math Puzzle](https://play.google.com/store/apps/details?id=atorch.statspuzzles&pli=1).
+This post contains my solutions to problems, Easy Peasy level from an app called [Probability Math Puzzle](https://play.google.com/store/apps/details?id=atorch.statspuzzles&pli=1).
 
 <p align="center">
   <img width="460" height="460" src="images/probability_puzzles.png">
