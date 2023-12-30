@@ -18,3 +18,11 @@ It deserves another post (coming soon).
 ### **Pseudo-labeling (PL)**
 Methods to implement PL includes exploiting neighborhood graphs, performing clustering, estimating prediction uncertainty. \
 However, they all fail due to the positive-negative imbalance in SPML. Therefore, the proposed method follows **asymmetric-tolerance** strategies for positive and negative pseudo-labels.
+
+## **Proposed method**
+
+## **What I\'ve learned from this paper**
+- Entropy min-/maximization
+- Gradient-based analysis for studying loss functions
+
+## **References**
