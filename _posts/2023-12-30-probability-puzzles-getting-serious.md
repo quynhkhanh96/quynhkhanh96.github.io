@@ -17,6 +17,7 @@ Let $$p$$ be the probability that we see a number smaller than 4. Denote $$X$$ t
 We have $$P(X=i) = p^{i-1}(1-p)$$
 
 The answer is the expected values of $$X$$, which is
+
 $$
 \begin{align*}
     E[X] & = \sum_{i=1}^{\infty}i \cdot P(X=i)  \\
@@ -36,6 +37,7 @@ What\'s the probability that some (i.e. either two or three) of the people in th
 Denote $$D$$ as the number of days in a year, we find the probability that three friends have different birthdays instead then take the complement. There are $$D\cdot D\cdot D$$ combinations of birthday triples, $$D\cdot (D-1)\cdot (D-2)$$ of them are pairwise distinct.
 
 The final answer is:
+
 $$
 \begin{align*}
     & 1 - \frac{D\cdot (D-1)\cdot (D-2)}{D\cdot D\cdot D} = 1 - \frac{(D-1)\cdot (D-2)}{D^2} \\
